@@ -1,0 +1,17 @@
+/node_modules
+/dist
+/build
+/.env
+/.env.local
+/.env.development
+/.env.test
+/.env.production
+.DS_Store
+.idea
+.vscode
+*.log   
+
+/.vite
+vite.config.js
+package-lock.json
+eslint.config.js
